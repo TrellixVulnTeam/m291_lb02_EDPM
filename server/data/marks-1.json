@@ -1,0 +1,22 @@
+{
+ "marks_school":[
+  {
+   "sid": 100, "modules": [
+    {"mid": 286, "title": "286-Eigene ICT-Arbeitsinstrumente einrichten und bedienen", "mark": 4.0},
+    {"mid": 287, "title": "287-Websites mit CSS gestalten", "mark": 3.5, "_cellVariants": {"mark": "danger"}},
+    {"mid": 288, "title": "288-Programmiertechniken im Webfrontend einsetzen", "mark": 5.5},
+    {"mid": 307, "title": "307-Interaktive Webseite mit Formular erstellen", "mark": 5.5},
+    {"mid": 290, "title": "290-Datenbanken abfragen und verändern",  "mark": 3.5, "_cellVariants": {"mark": "danger"}},
+    {"mid": 291, "title": "291-Oberflächen (UIs) mit Webtechnologien entwickeln", "mark": "Pnab", "_cellVariants": {"mark": "warning"}}
+   ]},{
+   "sid": 101, "modules": [
+    {"mid": 286, "title": "286-Eigene ICT-Arbeitsinstrumente einrichten und bedienen", "mark": 4.5},
+    {"mid": 287, "title": "287-Websites mit CSS gestalten", "mark": 3.0, "_cellVariants": {"mark": "danger"}},
+    {"mid": 288, "title": "288-Programmiertechniken im Webfrontend einsetzen", "mark": 5.0},
+    {"mid": 307, "title": "307-Interaktive Webseite mit Formular erstellen", "mark": 5.5},
+    {"mid": 290, "title": "290-Datenbanken abfragen und verändern",  "mark": 2.5, "_cellVariants": {"mark": "danger"}},
+    {"mid": 291, "title": "291-Oberflächen (UIs) mit Webtechnologien entwickeln", "mark": 4.5}
+   ]
+  }
+]
+}
